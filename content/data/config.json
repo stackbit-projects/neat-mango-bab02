@@ -4,7 +4,7 @@
     "palette": "blue",
     "header": {
         "title": "Libris",
-        "logo_img": "/images/Screenshot from 2021-08-29 17-01-54.png",
+        "logo_img": "/images/logo.svg",
         "logo_img_alt": "Libris logo",
         "has_nav": true,
         "nav_links": [
